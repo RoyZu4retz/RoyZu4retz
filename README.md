@@ -5,6 +5,6 @@
 🐍 Proficient at using Python and SQL
 🛠️ Experienced with project coordination, system integration, and compliance
 
-#⚡ Eager to grow and learn! ⚡
+⚡ **Eager to grow and learn!** ⚡
  
 ## 📫 Connect with me! 👉🏻👉🏻 linkedin.com/in/roy-zuaretz-159943325
