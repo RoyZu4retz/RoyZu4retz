@@ -7,4 +7,4 @@
 
 ⚡ **Eager to grow and learn!** ⚡
  
-## 📫 Connect with me! 👉🏻👉🏻 linkedin.com/in/roy-zuaretz-159943325
+# 📫 Connect with me! 👉🏻👉🏻 linkedin.com/in/roy-zuaretz-159943325
