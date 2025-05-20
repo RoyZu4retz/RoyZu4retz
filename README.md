@@ -1,4 +1,4 @@
-## Hi! I'm Roy ZuAretz👋
+# Hi! I'm Roy ZuAretz👋
 
 - 🎓 I'm an Industrial engineering and Managment student at Tel-Aviv University
 - 💼 Currently applying for student roles tech project managment
@@ -7,4 +7,4 @@
 
 ⚡ **Eager to grow and learn!** ⚡
  
-# 📫 Connect with me! 👉🏻👉🏻 linkedin.com/in/roy-zuaretz-159943325
+## 📫 Connect with me! 👉🏻👉🏻 linkedin.com/in/roy-zuaretz-159943325
